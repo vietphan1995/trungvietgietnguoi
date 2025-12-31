@@ -1,6 +1,7 @@
 # trungvietgietnguoi
 
-1. trong cái tôi cứu người có thể có cái tôi giết người, cái tôi giết người chỉ có cái tôi giết người.
+1.  trong cái tôi cứu người có thể có cái tôi giết người, cái tôi giết người chỉ có cái tôi giết người.
+
 2. lời khuyên ứng xử trong giao tiếp vu khống:
 
 2.1 vu khống yêu cầu giữa A và B:
@@ -91,7 +92,7 @@ B: anh có thông tin khách hàng định danh của anh hay không? lịch s�
 
 ⇒ ghi hình hiện trường, nhân chứng (nhân viên sửa chữa và người nhà), nghiệm thu trước khi rời đi nơi sử dụng dịch vụ.
 
-1. lời khuyên ứng xử trong giao tiếp những thông tin nhạy cảm:
+3. lời khuyên ứng xử trong giao tiếp những thông tin nhạy cảm:
 
 3.1 thông tin tài sản nhạy cảm giữa A và B:
 
@@ -99,7 +100,7 @@ A: tôi thấy C có tài sản 1.
 
 B: tôi cảm thấy xung quanh C không có thứ gì để tôi quan tâm, yêu thích.
 
-1. lời khuyên ứng xử trong giao tiếp dẫn dắt, quấy rối, không chủ đề, không đối tượng:
+4. lời khuyên ứng xử trong giao tiếp dẫn dắt, quấy rối, không chủ đề, không đối tượng:
 
 4.1 dẫn dắt, không chủ đề, không đối tượng:
 
@@ -115,8 +116,9 @@ A: câu là gì?
 
 B: vậy vô can là gì? bạn đã có nghĩa của từ ‘câu’ phổ thông?
 
-1.  lời khuyên ứng xử trong giao tiếp có chủ ngữ, vị ngữ, ngữ cảnh:
-2.  lời khuyên ứng xử trong giao tiếp có tính đồng hóa:
+5. lời khuyên ứng xử trong giao tiếp có chủ ngữ, vị ngữ, ngữ cảnh:
+
+6. lời khuyên ứng xử trong giao tiếp có tính đồng hóa:
 
 6.1 đồng hóa nhận lỗi giữa A đang có lỗi hút thuốc nơi công cộng, B không có lỗi:
 
