@@ -1,4 +1,5 @@
 # trungvietgietnguoi
+.
 
 | 1.  trong cái tôi cứu người có thể có cái tôi giết người, cái tôi giết người chỉ có cái tôi giết người.
 → lời khuyên suy nghĩ: bên yếu thế có quyền ghi hình từ trước khi sinh hoạt cho đến lúc kết thúc sinh hoạt với công dân khác, bên yếu thế bị ép buộc thực hiện đầy đủ quy trình, cam kết, ghi hình, lưu giữ dữ liệu. |
