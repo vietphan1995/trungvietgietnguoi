@@ -1,18 +1,19 @@
 # trungvietgietnguoi
+
 .
 
-| 1.  trong cái tôi cứu người có thể có cái tôi giết người, cái tôi giết người chỉ có cái tôi giết người.
+| (1)_ trong cái tôi cứu người có thể có cái tôi giết người, cái tôi giết người chỉ có cái tôi giết người.
 → lời khuyên suy nghĩ: bên yếu thế có quyền ghi hình từ trước khi sinh hoạt cho đến lúc kết thúc sinh hoạt với công dân khác, bên yếu thế bị ép buộc thực hiện đầy đủ quy trình, cam kết, ghi hình, lưu giữ dữ liệu. |
 | --- |
-| 1.1 lòng tốt cho đi có thể có ý đồ xấu, lòng tốt cho đi không có ý đồ xấu.
+| (1.1)_ lòng tốt cho đi có thể có ý đồ xấu, lòng tốt cho đi không có ý đồ xấu.
 → lòng tốt cho đi không làm tổn hại đến bên yếu thế, bên nhận hoặc bên cho có thể là bên yếu thế, bên yếu thế khó có thể làm tổn hại đến bên mạnh thế, bên yếu thế có thể làm tổn hại đến bên yếu thế. |
-| 1.2 nghĩa vụ phải làm có thể có ý đồ xấu, nghĩa vụ phải làm không có ý đồ xấu.
+| (1.2)_ nghĩa vụ phải làm có thể có ý đồ xấu, nghĩa vụ phải làm không có ý đồ xấu.
 → lời khuyên suy nghĩ: được phép ghi hình khi thi hành công vụ. |
-| 1.3 cơ địa bệnh tật có thể có ý đồ xấu, cơ địa bệnh tật không có ý đồ xấu.
+| (1.3)_ cơ địa bệnh tật có thể có ý đồ xấu, cơ địa bệnh tật không có ý đồ xấu.
 → lời khuyên suy nghĩ: bên ghi hình là bên yếu thế. |
-| 1.4 điều kiện giúp đỡ có ý đồ xấu, điều kiện giúp đỡ không có ý đồ xấu.
+| (1.4)_ điều kiện giúp đỡ có ý đồ xấu, điều kiện giúp đỡ không có ý đồ xấu.
 → lời khuyên suy nghĩ: bên ghi hình là bên yếu thế. |
-| 1.5 sinh hoạt cộng đồng có ý đồ xấu, sinh hoạt cộng đồng có thể có ý đồ xấu, sinh hoạt cộng đồng không có ý đồ xấu.
+| (1.5)_ sinh hoạt cộng đồng có ý đồ xấu, sinh hoạt cộng đồng có thể có ý đồ xấu, sinh hoạt cộng đồng không có ý đồ xấu.
 → lời khuyên suy nghĩ: cộng đồng ghi hình là bên yếu thế. |
 
 .
