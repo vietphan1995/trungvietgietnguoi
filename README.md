@@ -14,6 +14,8 @@
 | 1.5 sinh hoạt cộng đồng có ý đồ xấu, sinh hoạt cộng đồng có thể có ý đồ xấu, sinh hoạt cộng đồng không có ý đồ xấu.
 → lời khuyên suy nghĩ: cộng đồng ghi hình là bên yếu thế. |
 
+.
+
 2. lời khuyên ứng xử trong giao tiếp vu khống:
 
 2.1 vu khống yêu cầu giữa A và B:
