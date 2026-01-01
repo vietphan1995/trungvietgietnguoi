@@ -1,10 +1,11 @@
 # trungvietgietnguoi
 
-|
+.
 
+|  |
+| --- |
 | (1)_ trong cái tôi cứu người có thể có cái tôi giết người, cái tôi giết người chỉ có cái tôi giết người.
 → lời khuyên suy nghĩ: bên yếu thế có quyền ghi hình từ trước khi sinh hoạt cho đến lúc kết thúc sinh hoạt với công dân khác, bên yếu thế bị ép buộc thực hiện đầy đủ quy trình, cam kết, ghi hình, lưu giữ dữ liệu. |
-| --- |
 | (1.1)_ lòng tốt cho đi có thể có ý đồ xấu, lòng tốt cho đi không có ý đồ xấu.
 → lòng tốt cho đi không làm tổn hại đến bên yếu thế, bên nhận hoặc bên cho có thể là bên yếu thế, bên yếu thế khó có thể làm tổn hại đến bên mạnh thế, bên yếu thế có thể làm tổn hại đến bên yếu thế. |
 | (1.2)_ nghĩa vụ phải làm có thể có ý đồ xấu, nghĩa vụ phải làm không có ý đồ xấu.
