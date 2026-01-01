@@ -1,6 +1,8 @@
 # trungvietgietnguoi
 
-1.  trong cái tôi cứu người có thể có cái tôi giết người, cái tôi giết người chỉ có cái tôi giết người.
+| 1.  trong cái tôi cứu người có thể có cái tôi giết người, cái tôi giết người chỉ có cái tôi giết người. |
+| --- |
+| 1.1 lòng tốt cho đi có thể có ý đồ xấu, lòng tốt cho đi không có ý đồ xấu |
 
 2. lời khuyên ứng xử trong giao tiếp vu khống:
 
@@ -8,7 +10,11 @@
 
 A: tôi đã làm cho bạn những thứ này.
 
-B: tôi đã yêu cầu bạn làm những gì? liệu giữa chúng ta có hợp đồng, lời hứa nào không? có dữ liệu nào chứng minh không?
+B: tôi đã yêu cầu bạn làm những gì? 
+
+liệu giữa chúng ta có hợp đồng, lời hứa nào không? 
+
+có dữ liệu nào chứng minh không?
 
 2.2 vu khống yêu cầu giữa A và B:
 
@@ -18,7 +24,9 @@ B: vậy thì hãy cho tôi xem bạn đã làm những gì?
 
 A: thứ a, thứ b, thứ c.
 
-B: bạn đã hứa, cam kết cho tôi ăn những thứ này chứ? lúc đó có ai chứng kiến, nghe thấy hoặc có dữ liệu nào chứng minh không? 
+B: bạn đã hứa, cam kết cho tôi ăn những thứ này chứ? 
+
+lúc đó có ai chứng kiến, nghe thấy hoặc có dữ liệu nào chứng minh không? 
 
 2.3 vu khống tội lỗi giữa A và B, C, D, E, F, G:
 
@@ -64,6 +72,8 @@ sao mày không làm thứ khác cho tao ăn?
 
 mày làm cho mày ăn chưa? mà đã làm cho tao
 
+mày có định hướng làm cho mày ăn không?
+
 2.5 vu khống bịa chuyện diễn giữa A và B:
 
 A: anh C diễn với tôi không?
@@ -80,15 +90,23 @@ B: anh bị bệnh gì mà đã khám chữa bệnh nơi tôi. có lịch hẹn 
 
 A: tôi bị bệnh cảm.
 
-B: tôi đã điều trị bệnh cảm đó như thế nào? có bằng chứng dữ liệu ghi lại khi anh đã khám bệnh nơi tôi, nếu không thì trình báo xử lý nghiệp vụ chuyên môn nơi cơ quan chức năng có thẩm quyền xử lý. 
+B: tôi đã điều trị bệnh cảm đó như thế nào? 
+
+có bằng chứng dữ liệu ghi lại khi anh đã khám bệnh nơi tôi, nếu không thì trình báo xử lý nghiệp vụ chuyên môn nơi cơ quan chức năng có thẩm quyền xử lý. 
 
 ⇒ làm rõ ‘tôi là ai?’ bên trong A và B, ‘chuyện đó đã xảy ra như thế nào? mô tả lại’, ‘hướng xử lý’, ‘ai xử lý?’
 
-2.7 vu khống bịa chuyện sửa chữa công trình giữa A là khách hàng và B là người cung cấp dịch vụ:
+2.7 vu khống bịa chuyện sửa chữa công trình giữa A là khách hàng và bên B là người cung cấp dịch vụ:
 
 A: chào B, bên anh cho thợ sửa đèn nhà tôi không thành công và có  phát sinh sự cố khác.
 
-B: anh có thông tin khách hàng định danh của anh hay không? lịch sửa chữa? địa chỉ? vấn đề gặp phải nơi công trình của anh? nguyên nhân/triệu chứng của vấn đề, mô tả hiện trường sửa chữa, có dữ liệu ghi hình hoặc nhân chứng nào khác không? như chủ nhà/B, đã sửa chữa như thế nào? thay thế, mua thêm vật liệu gì?
+B: anh có thông tin khách hàng định danh của anh hay không? lịch sửa chữa? địa chỉ? 
+
+vấn đề gặp phải nơi công trình của anh? 
+
+nguyên nhân/triệu chứng của vấn đề, mô tả hiện trường sửa chữa, có dữ liệu ghi hình hoặc nhân chứng nào khác không? như chủ nhà/bên B, 
+
+đã sửa chữa như thế nào? thay thế, mua thêm vật liệu gì?
 
 ⇒ ghi hình hiện trường, nhân chứng (nhân viên sửa chữa và người nhà), nghiệm thu trước khi rời đi nơi sử dụng dịch vụ.
 
@@ -118,6 +136,12 @@ B: vậy vô can là gì? bạn đã có nghĩa của từ ‘câu’ phổ thô
 
 5. lời khuyên ứng xử trong giao tiếp có chủ ngữ, vị ngữ, ngữ cảnh:
 
+con chó
+
+con chó ăn cứt
+
+con chó ăn cứt ở Thanh Minh Thanh Nga
+
 6. lời khuyên ứng xử trong giao tiếp có tính đồng hóa:
 
 6.1 đồng hóa nhận lỗi giữa A đang có lỗi hút thuốc nơi công cộng, B không có lỗi:
@@ -128,7 +152,7 @@ B: tôi hay hút thuốc ở nhà, **nếu** hút thuốc nơi công cộng, c�
 
 6.2 đồng hóa nhận lỗi giữa A đang có lỗi đầu độc nơi căn tin, B không có lỗi:
 
-A: chào B, tôi thấy B giỏi bộ môn Hóa nên B có thể có có lỗi đầu độc nơi căn tin.
+A: chào B, tôi thấy B giỏi bộ môn Hóa nên B có thể có lỗi đầu độc nơi căn tin.
 
 B: 
 
