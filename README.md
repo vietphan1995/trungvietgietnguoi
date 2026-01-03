@@ -17,8 +17,6 @@
 | (1.5)_ sinh hoạt cộng đồng có ý đồ xấu, sinh hoạt cộng đồng có thể có ý đồ xấu, sinh hoạt cộng đồng không có ý đồ xấu.
 → lời khuyên suy nghĩ: cộng đồng ghi hình là bên yếu thế. |
 
----
-
 (2)_ lời khuyên ứng xử trong giao tiếp vu khống:
 
 (2.1)_ vu khống yêu cầu giữa A và B:
@@ -154,6 +152,17 @@ con chó ăn cứt ở Thanh Minh Thanh Nga
 | B: | tôi không sở hữu, không có thông tin về chất hóa học có khả năng gây chết người nơi căn tin, |
 | B: | dữ liệu công thức hóa học được cho là đầu độc với thực phẩm đó có khả năng gây chết người nơi căn tin (nơi nhà vệ sinh, bồn rửa, văn phòng, …) |
 | B: | tôi sinh hoạt có dữ liệu nơi căn tin, tôi có dữ liệu sinh hoạt trùng hợp với tình tiết, kịch bản của vụ án nên có thể nhận lỗi → tôi không thích một điều cụ thể nơi gây án đối với cộng đồng, mưu cầu, lợi ích, phần thưởng đạt được là động cơ gây lỗi, án. |
+
+(6.3)_ đồng hóa ngữ nghĩa:
+
+| trường | hạng | con chó | con người | con chim |
+| --- | --- | --- | --- | --- |
+| tập tính | ăn uống |  |  |  |
+| tập tính | vệ sinh |  |  |  |
+| văn minh | tiếp thu |  |  |  |
+| văn minh | thông tin |  |  |  |
+| văn minh | giao tiếp |  |  |  |
+| văn minh | làm việc |  |  |  |
 
 
 ### [back to git projects …](https://github.com/vietphan1995/projects)
