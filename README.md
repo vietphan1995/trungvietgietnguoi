@@ -30,17 +30,15 @@
 | B: | liệu giữa chúng ta có hợp đồng, lời hứa nào không? |
 | B: | có dữ liệu nào chứng minh không? |
 
-2.2 vu khống yêu cầu giữa A và B:
+(2.2)_ vu khống yêu cầu giữa A và B:
 
-A: tôi làm cho bạn ăn.
-
-B: vậy thì hãy cho tôi xem bạn đã làm những gì?
-
-A: thứ a, thứ b, thứ c.
-
-B: bạn đã hứa, cam kết cho tôi ăn những thứ này chứ? 
-
-lúc đó có ai chứng kiến, nghe thấy hoặc có dữ liệu nào chứng minh không? 
+|  |  |
+| --- | --- |
+| A: | tôi làm cho bạn ăn. |
+| B: | vậy thì hãy cho tôi xem bạn đã làm những gì? |
+| A: | thứ a, thứ b, thứ c. |
+| B: | bạn đã hứa, cam kết cho tôi ăn những thứ này chứ? |
+| B: | lúc đó có ai chứng kiến, nghe thấy hoặc có dữ liệu nào chứng minh không?  |
 
 2.3 vu khống tội lỗi giữa A và B, C, D, E, F, G:
 
@@ -179,6 +177,8 @@ tôi không sở hữu, không có thông tin về chất hóa học có khả n
 dữ liệu công thức hóa học được cho là đầu độc với thực phẩm đó có khả năng gây chết người nơi căn tin (nơi nhà vệ sinh, bồn rửa, văn phòng, …)
 
 tôi sinh hoạt có dữ liệu nơi căn tin, tôi có dữ liệu sinh hoạt trùng hợp với tình tiết, kịch bản của vụ án nên có thể nhận lỗi → tôi không thích một điều cụ thể nơi gây án đối với cộng đồng, mưu cầu, lợi ích, phần thưởng đạt được là động cơ gây lỗi, án.
+
+
 
 ### [back to git projects …](https://github.com/vietphan1995/projects)
 
