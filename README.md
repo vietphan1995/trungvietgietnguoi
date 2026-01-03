@@ -21,14 +21,14 @@
 
 (2)_ lời khuyên ứng xử trong giao tiếp vu khống:
 
-(2.1) vu khống yêu cầu giữa A và B:
+(2.1)_ vu khống yêu cầu giữa A và B:
 
 |  |  |
 | --- | --- |
 | A: | tôi đã làm cho bạn những thứ này. |
-| B: | tôi đã yêu cầu bạn làm những gì?
-liệu giữa chúng ta có hợp đồng, lời hứa nào không?
-có dữ liệu nào chứng minh không? |
+| B: | tôi đã yêu cầu bạn làm những gì? |
+| B: | liệu giữa chúng ta có hợp đồng, lời hứa nào không? |
+| B: | có dữ liệu nào chứng minh không? |
 
 2.2 vu khống yêu cầu giữa A và B:
 
@@ -180,6 +180,7 @@ dữ liệu công thức hóa học được cho là đầu độc với thực 
 
 tôi sinh hoạt có dữ liệu nơi căn tin, tôi có dữ liệu sinh hoạt trùng hợp với tình tiết, kịch bản của vụ án nên có thể nhận lỗi → tôi không thích một điều cụ thể nơi gây án đối với cộng đồng, mưu cầu, lợi ích, phần thưởng đạt được là động cơ gây lỗi, án.
 
-[https://github.com/vietphan1995/projects.git](https://github.com/vietphan1995/projects.git)
+### [back to git projects …](https://github.com/vietphan1995/projects)
 
-### [Projects](https://www.notion.so/Projects-23d5e832d6ee80149cedda9c49fefe21?pvs=21)
+### Notes
+https://phantrungviet.notion.site/trungvietgietnguoi-2d95e832d6ee8046a423e6b6abfa7272
