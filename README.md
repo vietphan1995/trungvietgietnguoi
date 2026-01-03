@@ -40,31 +40,25 @@
 | B: | bạn đã hứa, cam kết cho tôi ăn những thứ này chứ? |
 | B: | lúc đó có ai chứng kiến, nghe thấy hoặc có dữ liệu nào chứng minh không?  |
 
-2.3 vu khống tội lỗi giữa A và B, C, D, E, F, G:
+(2.3)_ vu khống tội lỗi giữa A và B, C, D, E, F, G:
 
-A: chào bạn B, nghe nói bạn B trộm tiền.
-
-B: tôi không trộm tiền.
-
-C: chào bạn B, nhà mày cho tiền tao trộm tiền nên B trộm tiền.
-
-B: tôi không trộm tiền.
-
-D: vì A chỉ C trộm tiền nên bạn B trộm tiền.
-
-B: tôi không trộm tiền.
-
-E: tôi không thấy A chỉ C trộm tiền nên bạn B trộm tiền.
-
-B: tôi không trộm tiền.
-
-F: vì nhà B trộm tiền nên bạn B trộm tiền.
-
-B: tôi không trộm tiền, bằng chứng nào cho thấy tôi là người trộm tiền?
-
-G: vì B chỉ tôi trộm tiền nên B là người trộm tiền.
-
-B: tôi không trộm tiền, bằng chứng nào cho thấy tôi chỉ - hướng dẫn G trộm tiền, lúc đó có ai chứng kiến nữa không? có camera không? có dữ liệu nào không?
+|  |  |
+| --- | --- |
+| A: | chào bạn B, nghe nói bạn B trộm tiền. |
+| B: | tôi không trộm tiền. |
+| C: | chào bạn B, nhà mày cho tiền tao trộm tiền nên B trộm tiền. |
+| B: | tôi không trộm tiền. |
+| D: | vì A chỉ C trộm tiền nên bạn B trộm tiền. |
+| B: | tôi không trộm tiền. |
+| E: | tôi không thấy A chỉ C trộm tiền nên bạn B trộm tiền. |
+| B: | tôi không trộm tiền. |
+| F: | vì nhà B trộm tiền nên bạn B trộm tiền. |
+| B: | tôi không trộm tiền, bằng chứng nào cho thấy tôi là người trộm tiền? |
+| G: | vì B chỉ tôi trộm tiền nên B là người trộm tiền. |
+| B: | tôi không trộm tiền, bằng chứng nào cho thấy tôi chỉ - hướng dẫn G trộm tiền? |
+| B: | lúc đó có ai chứng kiến nữa không?  |
+| B: | có video ghi hình không? |
+| B: | có dữ liệu nào không? |
 
 2.4 vu khống yêu cầu, lợi không phải của mình giữa A và B:
 
@@ -177,7 +171,6 @@ tôi không sở hữu, không có thông tin về chất hóa học có khả n
 dữ liệu công thức hóa học được cho là đầu độc với thực phẩm đó có khả năng gây chết người nơi căn tin (nơi nhà vệ sinh, bồn rửa, văn phòng, …)
 
 tôi sinh hoạt có dữ liệu nơi căn tin, tôi có dữ liệu sinh hoạt trùng hợp với tình tiết, kịch bản của vụ án nên có thể nhận lỗi → tôi không thích một điều cụ thể nơi gây án đối với cộng đồng, mưu cầu, lợi ích, phần thưởng đạt được là động cơ gây lỗi, án.
-
 
 
 ### [back to git projects …](https://github.com/vietphan1995/projects)
