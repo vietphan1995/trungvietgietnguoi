@@ -155,14 +155,54 @@ con chó ăn cứt ở Thanh Minh Thanh Nga
 
 (6.3)_ đồng hóa ngữ nghĩa:
 
-| trường | hạng | con chó | con người | con chim |
-| --- | --- | --- | --- | --- |
-| tập tính | ăn uống |  |  |  |
-| tập tính | vệ sinh |  |  |  |
-| văn minh | tiếp thu |  |  |  |
-| văn minh | thông tin |  |  |  |
-| văn minh | giao tiếp |  |  |  |
-| văn minh | làm việc |  |  |  |
+| trường | hạng | thứ | con chó | con người | con chim | con mắt |
+| --- | --- | --- | --- | --- | --- | --- |
+| tập tính | ăn uống |  |  |  |  |  |
+| tập tính | vệ sinh | bản thân |  |  |  |  |
+| tập tính | vệ sinh | môi trường |  |  |  |  |
+| văn minh | tiếp thu |  |  |  |  |  |
+| văn minh | lĩnh hội | từ xa |  |  |  |  |
+| văn minh | thông tin |  |  |  |  |  |
+| văn minh | giao tiếp |  |  |  |  |  |
+| văn minh | truyền đạt | từ xa |  |  |  |  |
+| văn minh | làm việc |  |  |  |  |  |
+| văn minh | làm việc | cùng âm nhạc |  |  |  |  |
+| văn minh | làm việc | nơi yên tĩnh |  |  |  |  |
+
+khả năng của **con người** trong nền **văn minh lĩnh hội** kiến thức **từ xa** bằng phần mềm nhắn tin/gọi điện thoại OTT(Over-the-Top).
+
+(6.4)_ đồng hóa thị giác, mặt chữ, hình tướng, định danh:
+
+| đồng hóa | lời khuyên phân hóa |
+| --- | --- |
+| thị giác | suy nghĩ, tập tính, văn minh, hành động, âm thanh, ngữ cảnh, tình huống. |
+| mặt chữ | suy nghĩ, âm thanh, ngữ cảnh, tình huống, nghĩa câu từ ghép đơn. |
+| hình tướng | suy nghĩ, âm thanh, ngữ cảnh, tình huống. |
+| định danh | suy nghĩ, tập tính, văn minh, hành động, âm thanh, ngữ cảnh, tình huống. → sản phẩm |
+
+(6.5)_ đồng hóa âm thanh:
+
+| đồng hóa | lời khuyên phân hóa |
+| --- | --- |
+| âm thanh | thị giác, ngôn ngữ ký hiệu, âm thanh đánh vần. |
+
+(7.0)_ lời khuyên sinh hoạt:
+
+hóa đơn, giao dịch điện tử có định danh của bên bán hàng, bên mua hàng, hàng hóa.
+
+lưu giữ hóa đơn giấy hoặc điện tử bằng thiết bị thông minh cùng điện toán đám mây, có thể tra cứu.
+
+tam sao thất bản lưu ký điện tử khắc nguyên nhân, thông điệp, ngòi nổ hoàn cảnh, ngữ cảnh.
+
+thiết bị thông minh cố định, di động nơi cá nhân, gia đình, xã hội.
+
+(8.0)_ lợi dụng, chăn dắt yếu tố có nền tảng đối tượng.
+
+lợi dụng chức vụ và quyền hạn của công an thực hiện việc khám xét đối với phụ nữ yếu thế có định danh, khắc yếu thế.
+
+lợi dụng chức vụ và quyền hạn của công an ngầm thực hiện việc khám xét đối với phụ nữ yếu thế có định danh, khắc quyền hạn vì trong chức vụ có quy định quyền hạn.
+
+công an là người có trách nhiệm gìn giữ trật tự an ninh xã hội, công an là một công dân, công dân không hẳn là một công an, công dân không bắt buộc phải có trách nhiệm gìn giữ trật tự an ninh xã hội nhưng phải tham gia gìn giữ trật tự an xã hội.
 
 
 ### [back to git projects …](https://github.com/vietphan1995/projects)
