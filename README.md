@@ -177,39 +177,71 @@ con chó ăn cứt ở Thanh Minh Thanh Nga
 
 khả năng của **con người** trong nền **văn minh lĩnh hội** kiến thức **từ xa** bằng phần mềm nhắn tin/gọi điện thoại OTT(Over-the-Top).
 
+khả năng của **con người** trong nền **văn minh tiếp thu** kiến thức bằng nền tảng học tập có phương thức truyền đạt bằng âm thanh.
+
+khả năng của **con người** trong nền **văn minh truyền đạt** và giáo dục không có cơ sở.
+
+điều kiện **môi trường** để **con người** luyện tập và phát triển những nền **văn minh**.
+
 ### (6.4)_ đồng hóa thị giác, mặt chữ, hình tướng, định danh:
 
 | đồng hóa | lời khuyên phân hóa |
 | --- | --- |
 | thị giác | suy nghĩ, tập tính, văn minh, hành động, âm thanh, ngữ cảnh, tình huống. |
-| mặt chữ | suy nghĩ, âm thanh, ngữ cảnh, tình huống, nghĩa câu từ ghép đơn. |
+| mặt chữ | suy nghĩ, âm thanh, ngữ cảnh, tình huống, nghĩa câu, nghĩa từ ghép, nghĩa từ đơn. |
 | hình tướng | suy nghĩ, âm thanh, ngữ cảnh, tình huống. |
-| định danh | suy nghĩ, tập tính, văn minh, hành động, âm thanh, ngữ cảnh, tình huống. → sản phẩm |
+| định danh | suy nghĩ, tập tính, văn minh, hành động, âm thanh, ngữ cảnh, tình huống. → sản phẩm, dịch vụ |
+
+| đồng hóa | trường hợp ví dụ |
+| --- | --- |
+| thị giác | khung cảnh xảy ra vụ án, địa điểm tổ chức, đại sứ đại diện, cháo cá màu tím |
+| mặt chữ | concholaconmai - còn cho là còn Mãi, trasuanhalam - trà sữa Nhã làm, chaocatim - cháo cá Tim |
+| hình tướng | ca sĩ giấu mặt, phim Us, nhóm xiếc Quốc Cơ Quốc Nghiệp, nhóm nhạc The Men |
+| định danh | ô tô Tín Thành TNT T&T, xoa bóp bấm nguyệt Thanh Minh Thanh Nga |
 
 ### (6.5)_ đồng hóa âm thanh:
 
 | đồng hóa | lời khuyên phân hóa |
 | --- | --- |
-| âm thanh | thị giác, ngôn ngữ ký hiệu, âm thanh đánh vần. |
+| âm thanh | thị giác, ngôn ngữ ký hiệu, ngôn ngữ hình thể, âm thanh đánh vần. |
+
+| đồng hóa | trường hợp ví dụ |
+| --- | --- |
+| âm thanh | giọng nói người thân, tiếng ồn phương tiện giao thông của người thân, tiếng sinh hoạt của người thân. |
+
+### ⇒ lời khuyên suy nghĩ:
+
+_ một bản thể giống mình đáng được đồng hóa để không được phân biệt đối xử, không bao gồm trách nhiệm.
+
+_ đầu ra suy nghĩ, hành động của sinh hoạt đơn, sinh hoạt nghĩa của từ đơn, không tham gia vào nghĩa của từ ghép, nghĩa của câu trong một xã hội bắt buộc phải dùng nghĩa của từ đơn để mô tả, đòi hỏi nhiều tài nguyên, năng lượng để tiếp thu, đúc kết, lĩnh hội được nghĩa, ý nghĩa.
+
+_ đầu ra suy nghĩ, hành động của sinh hoạt đơn cùng người thân, gia đình, xã hội. 
+
+**ví dụ:**
+
+_ thằng Nga đánh thằng Ukraina trong gia đình có người tên Nga và sinh hoạt đầu tin mô tả bằng câu ‘thằng Nga đánh thằng Ukraina’.
+
+_ chị đó tên Chiêu Dương trong buổi tiệc có sự hiện diện của chị tên Chiêu Dương và lời giới thiệu với những người hiện diện ở đó tên của chị ấy với mô tả ‘chị đó tên chiêu Dương’.
+
+**→ mẹo suy nghĩ:** tiếp đầu ngữ ‘tác phẩm’, ‘bài văn’ trước đầu tin, đầu việc, mô tả mang tính đồng hóa, cộng đồng xã hội có trách nhiệm nhận thức những đối tượng, hiện tượng xung quanh.
 
 ### (7.0)_ lời khuyên sinh hoạt:
 
-hóa đơn, giao dịch điện tử có định danh của bên bán hàng, bên mua hàng, hàng hóa.
+_ hóa đơn, giao dịch điện tử có định danh của bên bán hàng, bên mua hàng, hàng hóa.
 
-lưu giữ hóa đơn giấy hoặc điện tử bằng thiết bị thông minh cùng điện toán đám mây, có thể tra cứu.
+_ lưu giữ hóa đơn giấy hoặc điện tử bằng thiết bị thông minh cùng điện toán đám mây, có thể tra cứu.
 
-tam sao thất bản lưu ký điện tử khắc nguyên nhân, thông điệp, ngòi nổ hoàn cảnh, ngữ cảnh.
+_ tam sao thất bản lưu ký điện tử khắc nguyên nhân, thông điệp, ngòi nổ hoàn cảnh, ngữ cảnh.
 
-thiết bị thông minh cố định, di động nơi cá nhân, gia đình, xã hội.
+_ thiết bị thông minh cố định, di động nơi cá nhân, gia đình, xã hội.
 
 ### (8.0)_ lợi dụng, chăn dắt yếu tố có nền tảng đối tượng:
 
-lợi dụng chức vụ và quyền hạn của công an thực hiện việc khám xét đối với phụ nữ yếu thế có định danh, khắc yếu thế.
+_ lợi dụng chức vụ và quyền hạn của công an thực hiện việc khám xét đối với phụ nữ yếu thế có định danh, khắc yếu thế vì mỗi công dân có định danh đều có quyền ghi hình khi tham gia thi hành công vụ cùng công an.
 
-lợi dụng chức vụ và quyền hạn của công an ngầm thực hiện việc khám xét đối với phụ nữ yếu thế có định danh, khắc quyền hạn vì trong chức vụ có quy định quyền hạn.
+_ lợi dụng chức vụ và quyền hạn của công an ngầm thực hiện việc khám xét đối với phụ nữ yếu thế có định danh, khắc quyền hạn vì trong chức vụ có quy định quyền hạn của công dân.
 
-công an là người có trách nhiệm gìn giữ trật tự an ninh xã hội, công an là một công dân, công dân không hẳn là một công an, công dân không bắt buộc phải có trách nhiệm gìn giữ trật tự an ninh xã hội nhưng phải tham gia gìn giữ trật tự an xã hội.
-
+_ công an là người có trách nhiệm gìn giữ trật tự an ninh xã hội, công an là một công dân, công dân không hẳn là một công an, công dân không bắt buộc phải có trách nhiệm gìn giữ trật tự an ninh xã hội nhưng phải tham gia gìn giữ trật tự an ninh xã hội.
 
 
 ### [back to git projects …](https://github.com/vietphan1995/projects)
