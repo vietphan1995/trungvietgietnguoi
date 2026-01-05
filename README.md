@@ -7,21 +7,21 @@
 |  |
 | --- |
 | (1)_ trong cái tôi cứu người có thể có cái tôi giết người, cái tôi giết người chỉ có cái tôi giết người.
-→ lời khuyên suy nghĩ: bên yếu thế có quyền ghi hình từ trước khi sinh hoạt cho đến lúc kết thúc sinh hoạt với công dân khác, bên yếu thế bị ép buộc thực hiện đầy đủ quy trình, cam kết, ghi hình, lưu giữ dữ liệu. |
+**→ lời khuyên suy nghĩ:** bên yếu thế có quyền ghi hình từ trước khi sinh hoạt cho đến lúc kết thúc sinh hoạt với công dân khác, bên yếu thế bị ép buộc thực hiện đầy đủ quy trình, cam kết, ghi hình, lưu giữ dữ liệu. |
 | (1.1)_ lòng tốt cho đi có thể có ý đồ xấu, lòng tốt cho đi không có ý đồ xấu.
-→ lòng tốt cho đi không làm tổn hại đến bên yếu thế, bên nhận hoặc bên cho có thể là bên yếu thế, bên yếu thế khó có thể làm tổn hại đến bên mạnh thế, bên yếu thế có thể làm tổn hại đến bên yếu thế. |
+**→ lời khuyên suy nghĩ:** lòng tốt cho đi không làm tổn hại đến bên yếu thế, bên nhận hoặc bên cho có thể là bên yếu thế, bên yếu thế khó có thể làm tổn hại đến bên mạnh thế, bên yếu thế có thể làm tổn hại đến bên yếu thế. |
 | (1.2)_ nghĩa vụ phải làm có thể có ý đồ xấu, nghĩa vụ phải làm không có ý đồ xấu.
-→ lời khuyên suy nghĩ: được phép ghi hình khi thi hành công vụ. |
+**→ lời khuyên suy nghĩ:** được phép ghi hình khi thi hành công vụ. |
 | (1.3)_ cơ địa bệnh tật có thể có ý đồ xấu, cơ địa bệnh tật không có ý đồ xấu.
-→ lời khuyên suy nghĩ: bên ghi hình là bên yếu thế. |
+**→ lời khuyên suy nghĩ:** bên ghi hình là bên yếu thế. |
 | (1.4)_ điều kiện giúp đỡ có ý đồ xấu, điều kiện giúp đỡ không có ý đồ xấu.
-→ lời khuyên suy nghĩ: bên ghi hình là bên yếu thế. |
+**→ lời khuyên suy nghĩ:** bên ghi hình là bên yếu thế. |
 | (1.5)_ sinh hoạt cộng đồng có ý đồ xấu, sinh hoạt cộng đồng có thể có ý đồ xấu, sinh hoạt cộng đồng không có ý đồ xấu.
-→ lời khuyên suy nghĩ: cộng đồng ghi hình là bên yếu thế. |
+**→ lời khuyên suy nghĩ:** cộng đồng ghi hình là bên yếu thế. |
 | (1.6)_ lòng tốt là quà tặng gây tai họa.
-→ lời khuyên giao tiếp: kỉ niệm, lưu niệm ẩn chứa tính bỏ quên là bên yếu thế. |
+**→ lời khuyên giao tiếp:** kỉ niệm, lưu niệm ẩn chứa tính bỏ quên là bên yếu thế. |
 | (1.7)_ nêu gương, tán dương, kể tốt, sáng tạo tốt gây tai họa.
-→ lời khuyên suy nghĩ: tiêu giảm xã hội là bên yếu thế, trách nhiệm xã hội thuộc về bên mạnh thế. |
+**→ lời khuyên suy nghĩ:** tiêu giảm xã hội là bên yếu thế, trách nhiệm xã hội thuộc về bên mạnh thế. |
 
 ## (2)_ lời khuyên ứng xử trong giao tiếp vu khống:
 
@@ -161,19 +161,19 @@ con chó ăn cứt ở Thanh Minh Thanh Nga
 
 ### (6.3)_ đồng hóa ngữ nghĩa:
 
-| trường | hạng | thứ | con chó | con người | con chim | con mắt |
-| --- | --- | --- | --- | --- | --- | --- |
-| tập tính | ăn uống |  |  |  |  |  |
-| tập tính | vệ sinh | bản thân |  |  |  |  |
-| tập tính | vệ sinh | môi trường |  |  |  |  |
-| văn minh | tiếp thu |  |  |  |  |  |
-| văn minh | lĩnh hội | từ xa |  |  |  |  |
-| văn minh | thông tin |  |  |  |  |  |
-| văn minh | giao tiếp |  |  |  |  |  |
-| văn minh | truyền đạt | từ xa |  |  |  |  |
-| văn minh | làm việc |  |  |  |  |  |
-| văn minh | làm việc | cùng âm nhạc |  |  |  |  |
-| văn minh | làm việc | nơi yên tĩnh |  |  |  |  |
+| trường | hạng | thứ | con chó | con người | con chim | con mắt | con khỉ |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| tập tính | ăn uống |  |  |  |  |  |  |
+| tập tính | vệ sinh | bản thân |  |  |  |  |  |
+| tập tính | vệ sinh | môi trường |  |  |  |  |  |
+| văn minh | tiếp thu |  |  |  |  |  |  |
+| văn minh | lĩnh hội | từ xa |  |  |  |  |  |
+| văn minh | thông tin |  |  |  |  |  |  |
+| văn minh | giao tiếp |  |  |  |  |  |  |
+| văn minh | truyền đạt | từ xa |  |  |  |  |  |
+| văn minh | làm việc |  |  |  |  |  |  |
+| văn minh | làm việc | cùng âm nhạc |  |  |  |  |  |
+| văn minh | làm việc | nơi yên tĩnh |  |  |  |  |  |
 
 khả năng của **con người** trong nền **văn minh lĩnh hội** kiến thức **từ xa** bằng phần mềm nhắn tin/gọi điện thoại OTT(Over-the-Top).
 
@@ -182,6 +182,8 @@ khả năng của **con người** trong nền **văn minh tiếp thu** kiến t
 khả năng của **con người** trong nền **văn minh truyền đạt** và giáo dục không có cơ sở.
 
 điều kiện **môi trường** để **con người** luyện tập và phát triển những nền **văn minh**.
+
+khả năng của **con khỉ** trong nền **văn minh giao tiếp**, nền **văn minh cộng sinh**.
 
 ### (6.4)_ đồng hóa thị giác, mặt chữ, hình tướng, định danh:
 
@@ -205,9 +207,11 @@ khả năng của **con người** trong nền **văn minh truyền đạt** và
 | --- | --- |
 | âm thanh | thị giác, ngôn ngữ ký hiệu, ngôn ngữ hình thể, âm thanh đánh vần. |
 
-| đồng hóa | trường hợp ví dụ |
-| --- | --- |
-| âm thanh | giọng nói người thân, tiếng ồn phương tiện giao thông của người thân, tiếng sinh hoạt của người thân. |
+**ví dụ:**
+
+giọng nói người thân, tiếng ồn phương tiện giao thông của người thân, tiếng sinh hoạt của người thân.
+
+**→ lời khuyên suy nghĩ:** khả năng của một máy vi tính trong nền văn minh tiếp thu, lĩnh hội kiến thức trong môi trường truyền đạt bằng âm thanh, không bao gồm yếu tố ô nhiễm âm thanh, không thể phát lại âm thanh.
 
 ### ⇒ lời khuyên suy nghĩ:
 
@@ -222,6 +226,8 @@ _ đầu ra suy nghĩ, hành động của sinh hoạt đơn cùng người thâ
 _ thằng Nga đánh thằng Ukraina trong gia đình có người tên Nga và sinh hoạt đầu tin mô tả bằng câu ‘thằng Nga đánh thằng Ukraina’.
 
 _ chị đó tên Chiêu Dương trong buổi tiệc có sự hiện diện của chị tên Chiêu Dương và lời giới thiệu với những người hiện diện ở đó tên của chị ấy với mô tả ‘chị đó tên chiêu Dương’.
+
+_ chị Trâm trong quán cà phê xem tin tức ‘ông Trump và phu nhân Trump tham dự lễ chào đón năm mới’, chị Trâm không mang họ Donald trong tên.
 
 **→ mẹo suy nghĩ:** tiếp đầu ngữ ‘tác phẩm’, ‘bài văn’ trước đầu tin, đầu việc, mô tả mang tính đồng hóa, cộng đồng xã hội có trách nhiệm nhận thức những đối tượng, hiện tượng xung quanh.
 
@@ -242,6 +248,7 @@ _ lợi dụng chức vụ và quyền hạn của công an thực hiện việc
 _ lợi dụng chức vụ và quyền hạn của công an ngầm thực hiện việc khám xét đối với phụ nữ yếu thế có định danh, khắc quyền hạn vì trong chức vụ có quy định quyền hạn của công dân.
 
 _ công an là người có trách nhiệm gìn giữ trật tự an ninh xã hội, công an là một công dân, công dân không hẳn là một công an, công dân không bắt buộc phải có trách nhiệm gìn giữ trật tự an ninh xã hội nhưng phải tham gia gìn giữ trật tự an ninh xã hội.
+
 
 
 ### [back to git projects …](https://github.com/vietphan1995/projects)
