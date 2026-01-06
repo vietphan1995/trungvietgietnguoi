@@ -19,7 +19,7 @@
 | (1.5)_ sinh hoạt cộng đồng có ý đồ xấu, sinh hoạt cộng đồng có thể có ý đồ xấu, sinh hoạt cộng đồng không có ý đồ xấu.
 **→ lời khuyên suy nghĩ:** cộng đồng ghi hình là bên yếu thế. |
 | (1.6)_ lòng tốt là quà tặng gây tai họa.
-**→ lời khuyên giao tiếp:** kỉ niệm, lưu niệm ẩn chứa tính bỏ quên là bên yếu thế. |
+**→ lời khuyên giao tiếp:** kỉ niệm, lưu niệm kể cả ẩn chứa tính bỏ quên là bên yếu thế. không ẩn chứa lý do chính trị vì lưu niệm không bao gồm chính trị. |
 | (1.7)_ nêu gương, tán dương, kể tốt, sáng tạo tốt gây tai họa.
 **→ lời khuyên suy nghĩ:** tiêu giảm xã hội là bên yếu thế, trách nhiệm xã hội thuộc về bên mạnh thế. |
 
@@ -109,6 +109,74 @@
 
 ⇒ ghi hình hiện trường, nhân chứng (nhân viên sửa chữa và người nhà), nghiệm thu trước khi rời đi nơi sử dụng dịch vụ.
 
+### (2.8)_ vu khống chia sẻ trải nghiệm, kiến thức:
+
+|  |  |
+| --- | --- |
+| A: | chia sẻ trải nghiệm, kiến thức. |
+| B: | bạn làm chưa mà mày biết. |
+| A: | tôi suy nghĩ nên tôi biết. |
+| A: | tôi suy luận nên tôi biết. |
+| A: | tôi trải nghiệm tôi nên tôi chia sẻ. |
+| A: | tôi vừa cho bạn biết là tôi làm/trải nghiệm. |
+|  | … |
+
+### (2.9)_ vu khống chia sẻ trải nghiệm, tình yêu:
+
+|  |  |
+| --- | --- |
+| A: | chia sẻ trải nghiệm tình yêu. |
+| B: | không phải tính gì với tôi? |
+| A: | tôi tính không làm gì với bạn. |
+| A: | tôi tính để cho bạn ngồi yên/yên tĩnh. |
+| A: | tôi tính để tình yêu đó xảy ra. |
+|  | … |
+
+### (2.10)_ vu khống đồng hóa cơ sở:
+
+|  |  |
+| --- | --- |
+| A: | tôi thấy bạn có điều gì đó không đúng/không phải. |
+| B: | bạn **cũng** vậy. |
+| A: | tôi **cũng** không mà bạn **cũng** không. |
+| A: | tôi **cũng** có mà bạn **cũng** có. |
+|  | … |
+
+### (2.11)_ vu khống đồng hóa cơ sở:
+
+|  |  |
+| --- | --- |
+| A: | lên án/chế giễu điều sai. |
+| B: | mày cũng vậy. |
+| A: | tao tha lỗi. |
+| A: | tao không có trọng trách với lỗi. |
+| A: | họ đáng có lỗi. |
+|  | … |
+
+### (2.12)_ vu khống đồng hóa cơ sở:
+
+|  |  |
+| --- | --- |
+| A: | mày sống sao tao sống vậy. |
+| B: | chia hay cộng. |
+| B: | tao cũng không nỡ. |
+| B: | tao cũng không nỡ làm thứ tao làm đối với mày. |
+| B: | đùa, tao đồng hóa nó luôn, nó là điều đó, thứ đó. |
+|  | … |
+
+### (2.13)_ vu khống định nghĩa mới về bản thân:
+
+|  |  |
+| --- | --- |
+| A: | định nghĩa mới về bản thân B. |
+| A: | áp đặt mới về bản thân B. |
+| A: | vu khống mới về bản thân B. |
+| B:  | tôi đang trải nghiệm tôi. |
+| B: | tôi đang chăn dắt tôi. |
+| B: | tôi yếu thế nên tôi chăn dắt tôi. |
+| B: | bạn có cho bạn làm điều đó không? |
+|  | … |
+
 ## (3)_ lời khuyên ứng xử trong giao tiếp những thông tin nhạy cảm:
 
 ### (3.1)_ thông tin tài sản nhạy cảm giữa A và B:
@@ -192,7 +260,7 @@ khả năng của **con khỉ** trong nền **văn minh giao tiếp**, nền **v
 | thị giác | suy nghĩ, tập tính, văn minh, hành động, âm thanh, ngữ cảnh, tình huống. |
 | mặt chữ | suy nghĩ, âm thanh, ngữ cảnh, tình huống, nghĩa câu, nghĩa từ ghép, nghĩa từ đơn. |
 | hình tướng | suy nghĩ, âm thanh, ngữ cảnh, tình huống. |
-| định danh | suy nghĩ, tập tính, văn minh, hành động, âm thanh, ngữ cảnh, tình huống. → sản phẩm, dịch vụ |
+| định danh | suy nghĩ, tập tính, văn minh, hành động, âm thanh, ngữ cảnh, tình huống. → đầu ra sản phẩm, dịch vụ |
 
 | đồng hóa | trường hợp ví dụ |
 | --- | --- |
