@@ -317,8 +317,6 @@ _ lợi dụng chức vụ và quyền hạn của công an ngầm thực hiện
 
 _ công an là người có trách nhiệm gìn giữ trật tự an ninh xã hội, công an là một công dân, công dân không hẳn là một công an, công dân không bắt buộc phải có trách nhiệm gìn giữ trật tự an ninh xã hội nhưng phải tham gia gìn giữ trật tự an ninh xã hội.
 
-
-
 ### [back to git projects …](https://github.com/vietphan1995/projects)
 
 ### Notes
