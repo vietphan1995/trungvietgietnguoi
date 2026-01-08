@@ -8,29 +8,43 @@ _ trong cái tôi cứu người có thể có cái tôi giết người, cái t
 
 **→ lời khuyên suy nghĩ:** bên yếu thế có quyền ghi hình từ trước khi sinh hoạt cho đến lúc kết thúc sinh hoạt với công dân khác, bên yếu thế bị ép buộc thực hiện đầy đủ quy trình, cam kết, ghi hình, lưu giữ dữ liệu.
 
+.
+
 **(1.1)_ lòng tốt cho đi có thể có ý đồ xấu, lòng tốt cho đi không có ý đồ xấu.**
 
 **→ lời khuyên suy nghĩ:** lòng tốt cho đi không làm tổn hại đến bên yếu thế, bên nhận hoặc bên cho có thể là bên yếu thế, bên yếu thế khó có thể làm tổn hại đến bên mạnh thế, bên yếu thế có thể làm tổn hại đến bên yếu thế.
+
+.
 
 **(1.2)_ nghĩa vụ phải làm có thể có ý đồ xấu, nghĩa vụ phải làm không có ý đồ xấu.**
 
 **→ lời khuyên suy nghĩ:** được phép ghi hình khi thi hành công vụ.
 
+.
+
 **(1.3)_ cơ địa bệnh tật có thể có ý đồ xấu, cơ địa bệnh tật không có ý đồ xấu.**
 
 **→ lời khuyên suy nghĩ:** bên ghi hình là bên yếu thế.
+
+.
 
 **(1.4)_ điều kiện giúp đỡ có ý đồ xấu, điều kiện giúp đỡ không có ý đồ xấu.**
 
 **→ lời khuyên suy nghĩ:** bên ghi hình là bên yếu thế.
 
+.
+
 **(1.5)_ sinh hoạt cộng đồng có ý đồ xấu, sinh hoạt cộng đồng có thể có ý đồ xấu, sinh hoạt cộng đồng không có ý đồ xấu.**
 
 **→ lời khuyên suy nghĩ:** cộng đồng ghi hình là bên yếu thế.
 
+.
+
 **(1.6)_ lòng tốt là quà tặng gây tai họa.**
 
 **→ lời khuyên giao tiếp:** kỉ niệm, lưu niệm kể cả ẩn chứa tính bỏ quên là bên yếu thế. không ẩn chứa lý do chính trị vì lưu niệm không bao gồm chính trị.
+
+.
 
 **(1.7)_ nêu gương, tán dương, kể tốt, sáng tạo tốt gây tai họa.**
 
@@ -49,6 +63,8 @@ _ trong cái tôi cứu người có thể có cái tôi giết người, cái t
 | B: | liệu giữa chúng ta có hợp đồng, lời hứa nào không? |
 | B: | có dữ liệu nào chứng minh không? |
 
+.
+
 ### (2.2)_ vu khống yêu cầu giữa A và B:
 
 |  |  |
@@ -58,6 +74,8 @@ _ trong cái tôi cứu người có thể có cái tôi giết người, cái t
 | A: | thứ a, thứ b, thứ c. |
 | B: | bạn đã hứa, cam kết cho tôi ăn những thứ này chứ? |
 | B: | lúc đó có ai chứng kiến, nghe thấy hoặc có dữ liệu nào chứng minh không?  |
+
+.
 
 ### (2.3)_ vu khống tội lỗi giữa A và B, C, D, E, F, G:
 
@@ -79,6 +97,8 @@ _ trong cái tôi cứu người có thể có cái tôi giết người, cái t
 | B: | có video ghi hình không? |
 | B: | có dữ liệu nào không? |
 
+.
+
 ### (2.4)_ vu khống yêu cầu, lợi không phải của mình giữa A và B:
 
 |  |  |
@@ -92,6 +112,8 @@ _ trong cái tôi cứu người có thể có cái tôi giết người, cái t
 | B: | mày làm cho mày ăn chưa? mà đã làm cho tao. |
 | B: | mày có định hướng làm cho mày ăn không? |
 
+.
+
 ### (2.5)_ vu khống bịa chuyện diễn giữa A và B:
 
 |  |  |
@@ -99,6 +121,8 @@ _ trong cái tôi cứu người có thể có cái tôi giết người, cái t
 | A: | anh C diễn với tôi không? |
 | B: | qua đâu?, chi tiết nào mà anh nói anh C diễn với anh?, lúc nào? |
 | B: | anh có vị thế gì? vị trí gì? trong hoàn cảnh đó mà biết được tin, chuyện này? |
+
+.
 
 ### (2.6)_ vu khống bịa chuyện khám chữa bệnh giữa A là bệnh nhân và B là bác sĩ:
 
@@ -112,6 +136,8 @@ _ trong cái tôi cứu người có thể có cái tôi giết người, cái t
 
 ⇒ làm rõ ‘tôi là ai?’ bên trong A và B, ‘chuyện đó đã xảy ra như thế nào? mô tả lại’, ‘hướng xử lý’, ‘ai xử lý?’
 
+.
+
 ### (2.7)_ vu khống bịa chuyện sửa chữa công trình giữa A là khách hàng và bên B là người cung cấp dịch vụ:
 
 |  |  |
@@ -123,6 +149,8 @@ _ trong cái tôi cứu người có thể có cái tôi giết người, cái t
 | B: | đã sửa chữa như thế nào? thay thế, mua thêm vật liệu gì? |
 
 ⇒ ghi hình hiện trường, nhân chứng (nhân viên sửa chữa và người nhà), nghiệm thu trước khi rời đi nơi sử dụng dịch vụ.
+
+.
 
 ### (2.8)_ vu khống chia sẻ trải nghiệm, kiến thức:
 
@@ -136,6 +164,8 @@ _ trong cái tôi cứu người có thể có cái tôi giết người, cái t
 | A: | tôi vừa cho bạn biết là tôi làm/trải nghiệm. |
 |  | … |
 
+.
+
 ### (2.9)_ vu khống chia sẻ trải nghiệm, tình yêu:
 
 |  |  |
@@ -147,6 +177,8 @@ _ trong cái tôi cứu người có thể có cái tôi giết người, cái t
 | A: | tôi tính để tình yêu đó xảy ra. |
 |  | … |
 
+.
+
 ### (2.10)_ vu khống đồng hóa cơ sở:
 
 |  |  |
@@ -156,6 +188,8 @@ _ trong cái tôi cứu người có thể có cái tôi giết người, cái t
 | A: | tôi **cũng** không mà bạn **cũng** không. |
 | A: | tôi **cũng** có mà bạn **cũng** có. |
 |  | … |
+
+.
 
 ### (2.11)_ vu khống đồng hóa cơ sở:
 
@@ -168,6 +202,8 @@ _ trong cái tôi cứu người có thể có cái tôi giết người, cái t
 | A: | họ đáng có lỗi. |
 |  | … |
 
+.
+
 ### (2.12)_ vu khống đồng hóa cơ sở:
 
 |  |  |
@@ -178,6 +214,8 @@ _ trong cái tôi cứu người có thể có cái tôi giết người, cái t
 | B: | tao cũng không nỡ làm thứ tao làm đối với mày. |
 | B: | đùa, tao đồng hóa nó luôn, nó là điều đó, thứ đó. |
 |  | … |
+
+.
 
 ### (2.13)_ vu khống định nghĩa mới về bản thân:
 
@@ -240,6 +278,8 @@ con chó ăn cứt ở Thanh Minh Thanh Nga
 | A: | chào B, tôi thấy B hay hút thuốc nên B có thể có lỗi hút thuốc nơi công cộng. |
 | B: | tôi hay hút thuốc ở nhà, **nếu** hút thuốc nơi công cộng, cụ thể là địa điểm nào?, thời gian khi nào?. |
 
+.
+
 ### (6.2)_ đồng hóa nhận lỗi giữa A đang có lỗi đầu độc nơi căn tin, B không có lỗi:
 
 |  |  |
@@ -250,6 +290,8 @@ con chó ăn cứt ở Thanh Minh Thanh Nga
 | B: | tôi không sở hữu, không có thông tin về chất hóa học có khả năng gây chết người nơi căn tin, |
 | B: | dữ liệu công thức hóa học được cho là đầu độc với thực phẩm đó có khả năng gây chết người nơi căn tin (nơi nhà vệ sinh, bồn rửa, văn phòng, …) |
 | B: | tôi sinh hoạt có dữ liệu nơi căn tin, tôi có dữ liệu sinh hoạt trùng hợp với tình tiết, kịch bản của vụ án nên có thể nhận lỗi → tôi không thích một điều cụ thể nơi gây án đối với cộng đồng, mưu cầu, lợi ích, phần thưởng đạt được là động cơ gây lỗi, án. |
+
+.
 
 ### (6.3)_ đồng hóa ngữ nghĩa:
 
@@ -277,6 +319,8 @@ khả năng của **con người** trong nền **văn minh truyền đạt** và
 
 khả năng của **con khỉ** trong nền **văn minh giao tiếp**, nền **văn minh cộng sinh**.
 
+.
+
 ### (6.4)_ đồng hóa thị giác, mặt chữ, hình tướng, định danh:
 
 | đồng hóa | lời khuyên phân hóa |
@@ -293,6 +337,8 @@ khả năng của **con khỉ** trong nền **văn minh giao tiếp**, nền **v
 | hình tướng | ca sĩ giấu mặt, phim Us, nhóm xiếc Quốc Cơ Quốc Nghiệp, nhóm nhạc The Men |
 | định danh | ô tô Tín Thành TNT T&T, xoa bóp bấm nguyệt Thanh Minh Thanh Nga |
 
+.
+
 ### (6.5)_ đồng hóa âm thanh:
 
 | đồng hóa | lời khuyên phân hóa |
@@ -305,6 +351,8 @@ giọng nói người thân, tiếng ồn phương tiện giao thông của ngư
 
 **→ lời khuyên suy nghĩ:** khả năng của một máy vi tính trong nền văn minh tiếp thu, lĩnh hội kiến thức trong môi trường truyền đạt bằng âm thanh, không bao gồm yếu tố ô nhiễm âm thanh, không thể phát lại âm thanh.
 
+.
+
 ### ⇒ lời khuyên suy nghĩ:
 
 _ một bản thể giống mình đáng được đồng hóa để không được phân biệt đối xử, không bao gồm trách nhiệm.
@@ -312,6 +360,8 @@ _ một bản thể giống mình đáng được đồng hóa để không đư
 _ đầu ra suy nghĩ, hành động của sinh hoạt đơn, sinh hoạt nghĩa của từ đơn, không tham gia vào nghĩa của từ ghép, nghĩa của câu trong một xã hội bắt buộc phải dùng nghĩa của từ đơn để mô tả, đòi hỏi nhiều tài nguyên, năng lượng để tiếp thu, đúc kết, lĩnh hội được nghĩa, ý nghĩa.
 
 _ đầu ra suy nghĩ, hành động của sinh hoạt đơn cùng người thân, gia đình, xã hội. 
+
+.
 
 **ví dụ:**
 
@@ -345,7 +395,6 @@ _ lợi dụng chức vụ và quyền hạn của công an ngầm thực hiện
 
 _ công an là người có trách nhiệm gìn giữ trật tự an ninh xã hội, công an là một công dân, công dân không hẳn là một công an, công dân không bắt buộc phải có trách nhiệm gìn giữ trật tự an ninh xã hội nhưng phải tham gia gìn giữ trật tự an ninh xã hội.
 .
-
 ### [back to git projects …](https://github.com/vietphan1995/projects)
 
 ### Notes
