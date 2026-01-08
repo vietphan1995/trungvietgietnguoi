@@ -4,24 +4,31 @@
 
 ## (1)_ lòng tốt cho đi:
 
-|  |
-| --- |
-| (1)_ trong cái tôi cứu người có thể có cái tôi giết người, cái tôi giết người chỉ có cái tôi giết người.
-**→ lời khuyên suy nghĩ:** bên yếu thế có quyền ghi hình từ trước khi sinh hoạt cho đến lúc kết thúc sinh hoạt với công dân khác, bên yếu thế bị ép buộc thực hiện đầy đủ quy trình, cam kết, ghi hình, lưu giữ dữ liệu. |
-| (1.1)_ lòng tốt cho đi có thể có ý đồ xấu, lòng tốt cho đi không có ý đồ xấu.
-**→ lời khuyên suy nghĩ:** lòng tốt cho đi không làm tổn hại đến bên yếu thế, bên nhận hoặc bên cho có thể là bên yếu thế, bên yếu thế khó có thể làm tổn hại đến bên mạnh thế, bên yếu thế có thể làm tổn hại đến bên yếu thế. |
-| (1.2)_ nghĩa vụ phải làm có thể có ý đồ xấu, nghĩa vụ phải làm không có ý đồ xấu.
-**→ lời khuyên suy nghĩ:** được phép ghi hình khi thi hành công vụ. |
-| (1.3)_ cơ địa bệnh tật có thể có ý đồ xấu, cơ địa bệnh tật không có ý đồ xấu.
-**→ lời khuyên suy nghĩ:** bên ghi hình là bên yếu thế. |
-| (1.4)_ điều kiện giúp đỡ có ý đồ xấu, điều kiện giúp đỡ không có ý đồ xấu.
-**→ lời khuyên suy nghĩ:** bên ghi hình là bên yếu thế. |
-| (1.5)_ sinh hoạt cộng đồng có ý đồ xấu, sinh hoạt cộng đồng có thể có ý đồ xấu, sinh hoạt cộng đồng không có ý đồ xấu.
-**→ lời khuyên suy nghĩ:** cộng đồng ghi hình là bên yếu thế. |
-| (1.6)_ lòng tốt là quà tặng gây tai họa.
-**→ lời khuyên giao tiếp:** kỉ niệm, lưu niệm kể cả ẩn chứa tính bỏ quên là bên yếu thế. không ẩn chứa lý do chính trị vì lưu niệm không bao gồm chính trị. |
-| (1.7)_ nêu gương, tán dương, kể tốt, sáng tạo tốt gây tai họa.
-**→ lời khuyên suy nghĩ:** tiêu giảm xã hội là bên yếu thế, trách nhiệm xã hội thuộc về bên mạnh thế. |
+_ trong cái tôi cứu người có thể có cái tôi giết người, cái tôi giết người chỉ có cái tôi giết người.
+**→ lời khuyên suy nghĩ:** bên yếu thế có quyền ghi hình từ trước khi sinh hoạt cho đến lúc kết thúc sinh hoạt với công dân khác, bên yếu thế bị ép buộc thực hiện đầy đủ quy trình, cam kết, ghi hình, lưu giữ dữ liệu.
+
+**(1.1)_ lòng tốt cho đi có thể có ý đồ xấu, lòng tốt cho đi không có ý đồ xấu.**
+**→ lời khuyên suy nghĩ:** lòng tốt cho đi không làm tổn hại đến bên yếu thế, bên nhận hoặc bên cho có thể là bên yếu thế, bên yếu thế khó có thể làm tổn hại đến bên mạnh thế, bên yếu thế có thể làm tổn hại đến bên yếu thế.
+
+**(1.2)_ nghĩa vụ phải làm có thể có ý đồ xấu, nghĩa vụ phải làm không có ý đồ xấu.**
+**→ lời khuyên suy nghĩ:** được phép ghi hình khi thi hành công vụ.
+
+**(1.3)_ cơ địa bệnh tật có thể có ý đồ xấu, cơ địa bệnh tật không có ý đồ xấu.**
+**→ lời khuyên suy nghĩ:** bên ghi hình là bên yếu thế.
+
+**(1.4)_ điều kiện giúp đỡ có ý đồ xấu, điều kiện giúp đỡ không có ý đồ xấu.**
+**→ lời khuyên suy nghĩ:** bên ghi hình là bên yếu thế.
+
+**(1.5)_ sinh hoạt cộng đồng có ý đồ xấu, sinh hoạt cộng đồng có thể có ý đồ xấu, sinh hoạt cộng đồng không có ý đồ xấu.**
+**→ lời khuyên suy nghĩ:** cộng đồng ghi hình là bên yếu thế.
+
+**(1.6)_ lòng tốt là quà tặng gây tai họa.**
+**→ lời khuyên giao tiếp:** kỉ niệm, lưu niệm kể cả ẩn chứa tính bỏ quên là bên yếu thế. không ẩn chứa lý do chính trị vì lưu niệm không bao gồm chính trị.
+
+**(1.7)_ nêu gương, tán dương, kể tốt, sáng tạo tốt gây tai họa.**
+**→ lời khuyên suy nghĩ:** tiêu giảm xã hội là bên yếu thế, trách nhiệm xã hội thuộc về bên mạnh thế.
+
+.
 
 ## (2)_ lời khuyên ứng xử trong giao tiếp vu khống:
 
@@ -177,6 +184,8 @@
 | B: | bạn có cho bạn làm điều đó không? |
 |  | … |
 
+.
+
 ## (3)_ lời khuyên ứng xử trong giao tiếp những thông tin nhạy cảm:
 
 ### (3.1)_ thông tin tài sản nhạy cảm giữa A và B:
@@ -185,6 +194,9 @@
 | --- | --- |
 | A: | tôi thấy C có tài sản 1. |
 | B: | tôi cảm thấy xung quanh C không có thứ gì để tôi quan tâm, yêu thích. |
+|  | … |
+
+.
 
 ## (4)_ lời khuyên ứng xử trong giao tiếp dẫn dắt, quấy rối, không chủ đề, không đối tượng:
 
@@ -199,6 +211,8 @@
 | A: | câu là gì? |
 | B: | vậy vô can là gì? bạn đã có nghĩa của từ ‘câu’ phổ thông? |
 
+.
+
 ## (5)_ lời khuyên ứng xử trong giao tiếp có chủ ngữ, vị ngữ, ngữ cảnh:
 
 con chó
@@ -206,6 +220,8 @@ con chó
 con chó ăn cứt
 
 con chó ăn cứt ở Thanh Minh Thanh Nga
+
+.
 
 ## (6)_ lời khuyên ứng xử trong giao tiếp có tính đồng hóa:
 
@@ -291,13 +307,15 @@ _ đầu ra suy nghĩ, hành động của sinh hoạt đơn cùng người thâ
 
 **ví dụ:**
 
-_ thằng Nga đánh thằng Ukraina trong gia đình có người tên Nga và sinh hoạt đầu tin mô tả bằng câu ‘thằng Nga đánh thằng Ukraina’.
+_ thằng Nga đánh thằng Ukraina trong gia đình có người tên Nga và sinh hoạt đầu tin mô tả bằng câu “thằng Nga đánh thằng Ukraina”.
 
-_ chị đó tên Chiêu Dương trong buổi tiệc có sự hiện diện của chị tên Chiêu Dương và lời giới thiệu với những người hiện diện ở đó tên của chị ấy với mô tả ‘chị đó tên chiêu Dương’.
+_ chị đó tên Chiêu Dương trong buổi tiệc có sự hiện diện của chị tên Chiêu Dương và lời giới thiệu với những người hiện diện ở đó tên của chị ấy với mô tả “chị đó tên chiêu Dương”.
 
-_ chị Trâm trong quán cà phê xem tin tức ‘ông Trump và phu nhân Trump tham dự lễ chào đón năm mới’, chị Trâm không mang họ Donald trong tên.
+_ chị Trâm trong quán cà phê xem tin tức “ông Trump và phu nhân Trump tham dự lễ chào đón năm mới”, chị Trâm không mang họ Donald trong tên.
 
 **→ mẹo suy nghĩ:** tiếp đầu ngữ ‘tác phẩm’, ‘bài văn’ trước đầu tin, đầu việc, mô tả mang tính đồng hóa, cộng đồng xã hội có trách nhiệm nhận thức những đối tượng, hiện tượng xung quanh.
+
+.
 
 ### (7.0)_ lời khuyên sinh hoạt:
 
@@ -308,6 +326,8 @@ _ lưu giữ hóa đơn giấy hoặc điện tử bằng thiết bị thông mi
 _ tam sao thất bản lưu ký điện tử khắc nguyên nhân, thông điệp, ngòi nổ hoàn cảnh, ngữ cảnh.
 
 _ thiết bị thông minh cố định, di động nơi cá nhân, gia đình, xã hội.
+
+.
 
 ### (8.0)_ lợi dụng, chăn dắt yếu tố có nền tảng đối tượng:
 
