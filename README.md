@@ -297,17 +297,19 @@ con chó ăn cứt ở Thanh Minh Thanh Nga
 
 | trường | hạng | thứ | con chó | con người | con chim | con mắt | con khỉ |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| tập tính | ăn uống |  |  |  |  |  |  |
-| tập tính | vệ sinh | bản thân |  |  |  |  |  |
-| tập tính | vệ sinh | môi trường |  |  |  |  |  |
-| văn minh | tiếp thu |  |  |  |  |  |  |
-| văn minh | lĩnh hội | từ xa |  |  |  |  |  |
-| văn minh | thông tin |  |  |  |  |  |  |
-| văn minh | giao tiếp |  |  |  |  |  |  |
-| văn minh | truyền đạt | từ xa |  |  |  |  |  |
-| văn minh | làm việc |  |  |  |  |  |  |
-| văn minh | làm việc | cùng âm nhạc |  |  |  |  |  |
-| văn minh | làm việc | nơi yên tĩnh |  |  |  |  |  |
+| **tập tính** | ăn uống |  |  |  |  |  |  |
+| **tập tính** | vệ sinh | bản thân |  |  |  |  |  |
+| **tập tính** | vệ sinh | môi trường |  |  |  |  |  |
+| **văn hóa** | vệ sinh |  |  |  |  |  |  |
+| **văn hóa** | phổ thông |  |  |  |  |  |  |
+| **văn minh** | tiếp thu |  |  |  |  |  |  |
+| **văn minh** | lĩnh hội | từ xa |  |  |  |  |  |
+| **văn minh** | thông tin |  |  |  |  |  |  |
+| **văn minh** | giao tiếp |  |  |  |  |  |  |
+| **văn minh** | truyền đạt | từ xa |  |  |  |  |  |
+| **văn minh** | làm việc |  |  |  |  |  |  |
+| **văn minh** | làm việc | cùng âm nhạc |  |  |  |  |  |
+| **văn minh** | làm việc | nơi yên tĩnh |  |  |  |  |  |
 
 khả năng của **con người** trong nền **văn minh lĩnh hội** kiến thức **từ xa** bằng phần mềm nhắn tin/gọi điện thoại OTT(Over-the-Top).
 
