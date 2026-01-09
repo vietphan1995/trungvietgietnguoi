@@ -323,19 +323,16 @@ khả năng của **con khỉ** trong nền **văn minh giao tiếp**, nền **v
 
 ### (6.4)_ đồng hóa thị giác, mặt chữ, hình tướng, định danh:
 
-| đồng hóa | lời khuyên phân hóa |
+| **đồng hóa** | **lời khuyên phân hóa và ví dụ** |
 | --- | --- |
-| thị giác | suy nghĩ, tập tính, văn minh, hành động, âm thanh, ngữ cảnh, tình huống. |
-| mặt chữ | suy nghĩ, âm thanh, ngữ cảnh, tình huống, nghĩa câu, nghĩa từ ghép, nghĩa từ đơn. |
-| hình tướng | suy nghĩ, âm thanh, ngữ cảnh, tình huống. |
-| định danh | suy nghĩ, tập tính, văn minh, hành động, âm thanh, ngữ cảnh, tình huống. → đầu ra sản phẩm, dịch vụ |
-
-| đồng hóa | trường hợp ví dụ |
-| --- | --- |
-| thị giác | khung cảnh xảy ra vụ án, địa điểm tổ chức, đại sứ đại diện, cháo cá màu tím |
-| mặt chữ | concholaconmai - còn cho là còn Mãi, trasuanhalam - trà sữa Nhã làm, chaocatim - cháo cá Tim |
-| hình tướng | ca sĩ giấu mặt, phim Us, nhóm xiếc Quốc Cơ Quốc Nghiệp, nhóm nhạc The Men |
-| định danh | ô tô Tín Thành TNT T&T, xoa bóp bấm nguyệt Thanh Minh Thanh Nga |
+| thị giác |  **lời khuyên phân hóa:** suy nghĩ, tập tính, văn minh, hành động, âm thanh, ngữ cảnh, tình huống.
+**→ ví dụ:** khung cảnh xảy ra vụ án, địa điểm tổ chức, đại sứ đại diện, cháo cá màu tím |
+| mặt chữ | **lời khuyên phân hóa:** suy nghĩ, âm thanh, ngữ cảnh, tình huống, nghĩa câu, nghĩa từ ghép, nghĩa từ đơn.
+**→ ví dụ:** concholaconmai - còn cho là còn Mãi, trasuanhalam - trà sữa Nhã làm, chaocatim - cháo cá Tim |
+| hình tướng | **lời khuyên phân hóa:** suy nghĩ, âm thanh, ngữ cảnh, tình huống.
+**→ ví dụ:** ca sĩ giấu mặt, phim Us, nhóm xiếc Quốc Cơ Quốc Nghiệp, nhóm nhạc The Men |
+| định danh | **lời khuyên phân hóa:** suy nghĩ, tập tính, văn minh, hành động, âm thanh, ngữ cảnh, tình huống. → đầu ra sản phẩm, dịch vụ
+**→ ví dụ:** ô tô Tín Thành TNT T&T, xoa bóp bấm nguyệt Thanh Minh Thanh Nga |
 
 .
 
@@ -394,7 +391,10 @@ _ lợi dụng chức vụ và quyền hạn của công an thực hiện việc
 _ lợi dụng chức vụ và quyền hạn của công an ngầm thực hiện việc khám xét đối với phụ nữ yếu thế có định danh, khắc quyền hạn vì trong chức vụ có quy định quyền hạn của công dân.
 
 _ công an là người có trách nhiệm gìn giữ trật tự an ninh xã hội, công an là một công dân, công dân không hẳn là một công an, công dân không bắt buộc phải có trách nhiệm gìn giữ trật tự an ninh xã hội nhưng phải tham gia gìn giữ trật tự an ninh xã hội.
+
 .
+
+
 ### [back to git projects …](https://github.com/vietphan1995/projects)
 
 ### Notes
