@@ -120,7 +120,7 @@ _ trong cái tôi cứu người có thể có cái tôi giết người, cái t
 | --- | --- |
 | A: | anh C diễn với tôi không? |
 | B: | qua đâu?, chi tiết nào mà anh nói anh C diễn với anh?, lúc nào? |
-| B: | anh có vị thế gì? vị trí gì? trong hoàn cảnh đó mà biết được tin, chuyện này? |
+| B: | anh có vị thế gì? vị trí gì? trong hoàn cảnh đó mà biết được tin, chuyện này ? |
 
 .
 
@@ -196,7 +196,7 @@ _ trong cái tôi cứu người có thể có cái tôi giết người, cái t
 |  |  |
 | --- | --- |
 | A: | lên án/chế giễu điều sai. |
-| B: | mày cũng vậy. |
+| B: | mày **cũng** vậy. |
 | A: | tao tha lỗi. |
 | A: | tao không có trọng trách với lỗi. |
 | A: | họ đáng có lỗi. |
@@ -321,6 +321,8 @@ khả năng của **con người** trong nền **văn minh truyền đạt** và
 
 khả năng của **con khỉ** trong nền **văn minh giao tiếp**, nền **văn minh cộng sinh**.
 
+khả năng của **con diễn** trong nền **văn minh sân khấu**.
+
 .
 
 ### (6.4)_ đồng hóa thị giác, mặt chữ, hình tướng, định danh:
@@ -379,8 +381,7 @@ nhóm nhạc The Men
 
 xoa bóp bấm nguyệt Thanh Minh Thanh Nga
 
-**→ lời khuyên phân hóa:** suy nghĩ, tập tính, văn minh, hành động, âm thanh, ngữ cảnh, tình huống. 
-→ đầu ra sản phẩm, dịch vụ.
+**→ lời khuyên phân hóa:** suy nghĩ, tập tính, văn minh, hành động, âm thanh, ngữ cảnh, tình huống. → đầu ra sản phẩm, dịch vụ.
 
 .
 
