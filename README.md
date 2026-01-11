@@ -321,7 +321,7 @@ khả năng của **con người** trong nền **văn minh truyền đạt** và
 
 khả năng của **con khỉ** trong nền **văn minh giao tiếp**, nền **văn minh cộng sinh**.
 
-khả năng của **con diễn** trong nền **văn minh sân khấu**.
+khả năng của **con diễn** trong nền **văn minh sân khấu**, không bao gồm nền **văn hóa nghệ thuật**.
 
 .
 
@@ -331,13 +331,13 @@ khả năng của **con diễn** trong nền **văn minh sân khấu**.
 
 **ví dụ:** 
 
-khung cảnh xảy ra vụ án, 
+khung cảnh xảy ra vụ án  , 
 
-địa điểm tổ chức, 
+địa điểm tổ chức  , 
 
-đại sứ đại diện, 
+đại sứ đại diện  , 
 
-cháo cá màu tím
+cháo cá màu tím  .
 
 **→ lời khuyên phân hóa:** suy nghĩ, tập tính, văn minh, hành động, âm thanh, ngữ cảnh, tình huống.
 
@@ -347,11 +347,11 @@ cháo cá màu tím
 
 **ví dụ:** 
 
-concholaconmai - còn cho là còn Mãi, 
+concholaconmai - còn cho là còn Mãi  , 
 
-trasuanhalam - trà sữa Nhã làm, 
+trasuanhalam - trà sữa Nhã làm  , 
 
-chaocatim - cháo cá Tim
+chaocatim - cháo cá Tim  .
 
 **→ lời khuyên phân hóa:** suy nghĩ, âm thanh, ngữ cảnh, tình huống, nghĩa câu, nghĩa từ ghép, nghĩa từ đơn.
 
@@ -361,13 +361,13 @@ chaocatim - cháo cá Tim
 
 **ví dụ:** 
 
-ca sĩ giấu mặt, 
+ca sĩ giấu mặt  , 
 
-phim Us, 
+phim Us  , 
 
-nhóm xiếc Quốc Cơ Quốc Nghiệp, 
+nhóm xiếc Quốc Cơ Quốc Nghiệp  , 
 
-nhóm nhạc The Men
+nhóm nhạc The Men  .
 
 **→ lời khuyên phân hóa:** suy nghĩ, âm thanh, ngữ cảnh, tình huống.
 
@@ -377,9 +377,9 @@ nhóm nhạc The Men
 
 **ví dụ:** 
 
-ô tô Tín Thành TNT T&T, 
+ô tô Tín Thành TNT T&T  , 
 
-xoa bóp bấm nguyệt Thanh Minh Thanh Nga
+xoa bóp bấm nguyệt Thanh Minh Thanh Nga  .
 
 **→ lời khuyên phân hóa:** suy nghĩ, tập tính, văn minh, hành động, âm thanh, ngữ cảnh, tình huống. → đầu ra sản phẩm, dịch vụ.
 
@@ -393,11 +393,11 @@ xoa bóp bấm nguyệt Thanh Minh Thanh Nga
 
 **ví dụ:**
 
-giọng nói người thân, 
+giọng nói người thân  , 
 
-tiếng ồn phương tiện giao thông của người thân, 
+tiếng ồn phương tiện giao thông của người thân  , 
 
-tiếng sinh hoạt của người thân.
+tiếng sinh hoạt của người thân  .
 
 **→ lời khuyên suy nghĩ:** khả năng của một máy vi tính trong nền văn minh tiếp thu, lĩnh hội kiến thức trong môi trường truyền đạt bằng âm thanh, không bao gồm yếu tố ô nhiễm âm thanh, không thể phát lại âm thanh.
 
