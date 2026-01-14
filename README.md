@@ -116,11 +116,12 @@ _ trong cái tôi cứu người có thể có cái tôi giết người, cái t
 
 ### (2.5)_ vu khống bịa chuyện diễn giữa A và B:
 
-|  |  |
-| --- | --- |
-| A: | anh C diễn với tôi không? |
-| B: | qua đâu?, chi tiết nào mà anh nói anh C diễn với anh?, lúc nào? |
-| B: | anh có vị thế gì? vị trí gì? trong hoàn cảnh đó mà biết được tin, chuyện này ? |
+|  |  |  |
+| --- | --- | --- |
+| A: | anh C diễn với tôi không? |  |
+| B: | qua đâu?, chi tiết nào mà anh nói anh C diễn với anh?, lúc nào? | hoàn toàn là |
+| B: | anh có vị thế gì? vị trí gì? trong hoàn cảnh đó mà biết được tin, chuyện này ? |  |
+| B: | tôi đối xử với niềm tin của anh |  |
 
 .
 
@@ -257,6 +258,8 @@ _ trong cái tôi cứu người có thể có cái tôi giết người, cái t
 | A: | câu là gì? |
 | B: | vậy vô can là gì? bạn đã có nghĩa của từ ‘câu’ phổ thông? |
 
+**⇒ lời khuyên giao tiếp:** thời gian để tìm lại tôi là ai và bạn là ai, thời gian để tìm lại nguyên nhân tôi và bạn gặp nhau để giao tiếp.
+
 .
 
 ## (5)_ lời khuyên ứng xử trong giao tiếp có chủ ngữ, vị ngữ, ngữ cảnh:
@@ -322,6 +325,14 @@ khả năng của **con người** trong nền **văn minh truyền đạt** và
 khả năng của **con khỉ** trong nền **văn minh giao tiếp**, nền **văn minh cộng sinh**.
 
 khả năng của **con diễn** trong nền **văn minh sân khấu**, không bao gồm nền **văn hóa nghệ thuật**.
+
+| bộ chữ | tượng hình | Hán-Nôm | Cantonese | Latinh | chữ tiếng Việt |
+| --- | --- | --- | --- | --- | --- |
+| khả năng tiếp thu | 1 | 2 | 3 | 4 |  |
+| khả năng biểu diễn | 4 | 3 | 2 | 1 |  |
+| khả năng truyền đạt |  |  |  |  |  |
+| lời khuyên thứ tự dùng | 1 | 2 | 3 | 4 | 5 |
+| thứ tự xây dựng | 1 | 2 | 3 | 4 |  |
 
 .
 
@@ -409,7 +420,7 @@ _ một bản thể giống mình đáng được đồng hóa để không đư
 
 _ đầu ra suy nghĩ, hành động của sinh hoạt đơn, sinh hoạt nghĩa của từ đơn, không tham gia vào nghĩa của từ ghép, nghĩa của câu trong một xã hội bắt buộc phải dùng nghĩa của từ đơn để mô tả, đòi hỏi nhiều tài nguyên, năng lượng để tiếp thu, đúc kết, lĩnh hội được nghĩa, ý nghĩa.
 
-_ đầu ra suy nghĩ, hành động của sinh hoạt đơn cùng người thân, gia đình, xã hội. 
+_ đầu ra suy nghĩ, hành động của **sinh hoạt đơn** cùng người thân, gia đình, xã hội. 
 
 .
 
