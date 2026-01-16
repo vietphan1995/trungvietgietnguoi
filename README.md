@@ -334,6 +334,27 @@ khả năng của **con diễn** trong nền **văn minh sân khấu**, không b
 | lời khuyên thứ tự dùng | 1 | 2 | 3 | 4 | 5 |
 | thứ tự xây dựng | 1 | 2 | 3 | 4 |  |
 
+**→ lời khuyên suy nghĩ:** độ giàu có của cuộc sống đi cùng công cụ biễu diễn, thể hiện, truyền đạt đòi hỏi nhiều chiều, độ phức tạp và cụ thể cao, hoặc độ đơn giản và tổng quát cao.
+
+**ví dụ:** chơi như chơi, học ra học
+
+**_ đồng nghĩa do mượn, mượn do đồng nghĩa.**
+
+- play **because** experience, experience **because** play.
+- learn **because** study, study **because** learn.
+
+**_ trái nghĩa do nghịch, nghịch do trái nghĩa.**
+
+- play **because** study, study **because** play.
+
+**_ bao gồm cụ thể, nằm trong tổng quát.**
+
+- play **as** experience, experience **as** play.
+- play **as** represent, represent **as** play.
+- learn **as** study, study **as** learn.
+
+→ làm ra làm, làm như làm, làm **giống** làm
+
 .
 
 ### (6.4)_ đồng hóa thị giác, mặt chữ, hình tướng, định danh:
@@ -434,6 +455,8 @@ _ chị Trâm trong quán cà phê xem tin tức “ông Trump và phu nhân Tru
 
 **→ mẹo suy nghĩ:** tiếp đầu ngữ ‘tác phẩm’, ‘bài văn’ trước đầu tin, đầu việc, mô tả mang tính đồng hóa, cộng đồng xã hội có trách nhiệm nhận thức những đối tượng, hiện tượng xung quanh.
 
+_ không có cái tôi không thể chứa cái tôi → Tôi(tôi), Tôi(tôi + tôi), Tôi(tôi(tôi))
+
 .
 
 ### (7.0)_ lời khuyên sinh hoạt:
@@ -444,7 +467,12 @@ _ lưu giữ hóa đơn giấy hoặc điện tử bằng thiết bị thông mi
 
 _ tam sao thất bản lưu ký điện tử khắc nguyên nhân, thông điệp, ngòi nổ hoàn cảnh, ngữ cảnh.
 
-_ thiết bị thông minh cố định, di động nơi cá nhân, gia đình, xã hội.
+- mã, đường dẫn hóa đơn điện tử trong tin nhắn giao dịch.
+
+_ thiết bị thông minh cố định, di động nơi cá nhân, gia đình, xã hội sinh trắc học.
+
+- chức năng touching code trong ứng dụng google message.
+- chia sẻ thông tin vị trí vật lý, đính kèm hình, phim lưu niệm.
 
 .
 
