@@ -336,24 +336,34 @@ khả năng của **con diễn** trong nền **văn minh sân khấu**, không b
 
 **→ lời khuyên suy nghĩ:** độ giàu có của cuộc sống đi cùng công cụ biễu diễn, thể hiện, truyền đạt đòi hỏi nhiều chiều, độ phức tạp và cụ thể cao, hoặc độ đơn giản và tổng quát cao.
 
-**ví dụ:** chơi như chơi, học ra học
-
 **_ đồng nghĩa do mượn, mượn do đồng nghĩa.**
-
-- play **because** experience, experience **because** play.
-- learn **because** study, study **because** learn.
 
 **_ trái nghĩa do nghịch, nghịch do trái nghĩa.**
 
-- play **because** study, study **because** play.
-
 **_ bao gồm cụ thể, nằm trong tổng quát.**
 
-- play **as** experience, experience **as** play.
-- play **as** represent, represent **as** play.
-- learn **as** study, study **as** learn.
+**ví dụ:** chơi như chơi, học ra học
 
-→ làm ra làm, làm như làm, làm **giống** làm
+_ đồng nghĩa do mượn, mượn do đồng nghĩa. → đồng, đồng
+
+- ‘chơi’ **do mượn** ’trải nghiệm’, ‘trải nghiệm’ **do mượn** ’chơi’.
+
+- ‘học’ **do mượn** ’tiếp thu’, ‘tiếp thu’ **do mượn** ’học’.
+- ‘học’ **do mượn** ’dung nạp’, ‘dung nạp’ **do mượn** ’học’.
+
+_ trái nghĩa do nghịch, nghịch do trái nghĩa. → trái, nghịch
+
+- ‘chơi’ **do nghịch** ’học’, ‘học’ **do nghịch** ’chơi’.
+
+_ bao gồm cụ thể, nằm trong tổng quát. → cụ, tổng
+
+- ‘chơi’ **như** ’trải nghiệm’, ‘trải nghiệm’ **như** ’chơi’.
+- ‘chơi’ **như** ’thể hiện’, ‘thể hiện’ **như** ’chơi’.
+
+- ‘tiếp thu’ **như** ’học’, ‘học’ **như** ’tiếp thu’.
+- ‘tiếp thu’ **như** ‘dung nạp’, ‘dung nạp’ **như** ‘tiếp thu’.
+
+→ ‘làm’ **là** ‘làm’, ‘làm’ **ra** ’làm’, ‘làm’ **như** ’làm’, ‘làm’ **giống** ’làm’.
 
 .
 
@@ -467,12 +477,11 @@ _ lưu giữ hóa đơn giấy hoặc điện tử bằng thiết bị thông mi
 
 _ tam sao thất bản lưu ký điện tử khắc nguyên nhân, thông điệp, ngòi nổ hoàn cảnh, ngữ cảnh.
 
-- mã, đường dẫn hóa đơn điện tử trong tin nhắn giao dịch.
+→ mã, đường dẫn hóa đơn điện tử trong tin nhắn giao dịch.
 
 _ thiết bị thông minh cố định, di động nơi cá nhân, gia đình, xã hội sinh trắc học.
 
-- chức năng touching code trong ứng dụng google message.
-- chia sẻ thông tin vị trí vật lý, đính kèm hình, phim lưu niệm.
+→ chia sẻ thông tin vị trí vật lý, đính kèm hình, phim lưu niệm.
 
 .
 
