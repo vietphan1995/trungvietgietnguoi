@@ -483,6 +483,8 @@ _ thiết bị thông minh cố định, di động nơi cá nhân, gia đình, 
 
 → chia sẻ thông tin vị trí vật lý, đính kèm hình, phim lưu niệm.
 
+→ sinh hoạt nhóm trong ứng dụng facebook có đường dẫn địa chỉ, mã tuyên ngôn.
+
 .
 
 ### (8.0)_ lợi dụng, chăn dắt yếu tố có nền tảng đối tượng:
