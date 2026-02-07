@@ -447,9 +447,9 @@ tiếng sinh hoạt của người thân  .
 
 ### ⇒ lời khuyên suy nghĩ:
 
-_ một bản thể giống mình đáng được đồng hóa để không được phân biệt đối xử, không bao gồm trách nhiệm.
-
 _ đầu ra suy nghĩ, hành động của sinh hoạt đơn, sinh hoạt nghĩa của từ đơn, không tham gia vào nghĩa của từ ghép, nghĩa của câu trong một xã hội bắt buộc phải dùng nghĩa của từ đơn để mô tả, đòi hỏi nhiều tài nguyên, năng lượng để tiếp thu, đúc kết, lĩnh hội được nghĩa, ý nghĩa.
+
+_ một bản thể giống mình đáng được đồng hóa để không được phân biệt đối xử, không bao gồm trách nhiệm.
 
 _ đầu ra suy nghĩ, hành động của **sinh hoạt đơn** cùng người thân, gia đình, xã hội. 
 
@@ -481,9 +481,11 @@ _ tam sao thất bản lưu ký điện tử khắc nguyên nhân, thông điệ
 
 _ thiết bị thông minh cố định, di động nơi cá nhân, gia đình, xã hội sinh trắc học.
 
-→ chia sẻ thông tin vị trí vật lý, đính kèm hình, phim lưu niệm.
+→ chia sẻ thông tin vị trí vật lý, gắn thẻ định danh đính kèm hình, phim lưu niệm.
 
 → sinh hoạt nhóm trong ứng dụng facebook có đường dẫn địa chỉ, mã tuyên ngôn.
+
+→ máy ghi hình, trợ lý alexxa nơi phòng khách, phòng bếp, …
 
 .
 
